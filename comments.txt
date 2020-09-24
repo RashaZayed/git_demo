@@ -1,0 +1,5 @@
+first I forked the code
+I cloned the forked code to have a local copy
+I updated the code and staged it and then commit
+I pulled a request and it was up to date
+then pushed.
